@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "id": 1727365975981,
+      "username": "aswin",
+      "email": "aswinpu001@gmail.com",
+      "status": "active"
+    },
+    {
+      "username": "aswin",
+      "email": "aswinpu001@gmail.com",
+      "status": "active",
+      "id": 1727368569481
+    }
+  ]
+}
